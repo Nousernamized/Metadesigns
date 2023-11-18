@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    font-weight: bold;
+}
+
+h2{
+    background-color: #7870cc;
+    color: white;
+    font-family: sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+
